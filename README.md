@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/sayyedulbappy/portfolio-challenge">
+    <a href="https://github.com/sayyedulawwab/portfolio-challenge">
       Solution
     </a>
     <span> | </span>
@@ -89,5 +89,5 @@ Then run build/index.html file
 
 ## Contact
 
-- GitHub [@sayyedulbappy](https://github.com/sayyedulbappy)
-- Twitter [@sayyedulbappy](https://twitter.com/sayyedulbappy)
+- GitHub [@sayyedulawwab](https://github.com/sayyedulawwab)
+- LinkedIn [@sayyedulawwab](https://www.linkedin.com/in/sayyedulawwab/)
